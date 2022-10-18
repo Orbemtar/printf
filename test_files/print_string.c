@@ -8,4 +8,4 @@ int print_string(char *string){
   }
   
   return (count);
-}tt
+}
